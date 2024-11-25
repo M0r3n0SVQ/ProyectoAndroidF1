@@ -1,0 +1,8 @@
+<resources>
+        <!-- Estilo personalizado para calendario -->
+        <style name="calendarioPersonalizado" parent="Theme.MaterialComponents.Dialog">
+            <item name="android:background">@android:color/white</item> <!-- color del fondo -->
+            <item name="android:headerBackground">@android:color/black</item> <!--  color del encabezado -->
+            <item name="android:textColorPrimary">@android:color/black</item> <!-- Color de los números -->
+        </style>
+    </resources>
